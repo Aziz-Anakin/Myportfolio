@@ -7,6 +7,7 @@
 - React 19
 - Vite 7
 - Tailwind CSS 3
+- [React Bits](https://reactbits.dev/) — UI component inspirations
 
 ## Features
 
