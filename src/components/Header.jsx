@@ -125,7 +125,7 @@ function Header() {
             <a
               key={href}
               href={href}
-              className="px-2 py-1.5 rounded-md text-sm font-medium text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-blue-50 dark:hover:bg-slate-800 hover:shadow-md hover:shadow-slate-900/15 dark:hover:shadow-white/15 hover:-translate-y-0.5 transition-all duration-150"
+              className="px-2 py-1.5 rounded-md text-sm font-medium whitespace-nowrap text-slate-600 dark:text-slate-300 hover:text-blue-600 dark:hover:text-blue-400 hover:bg-blue-50 dark:hover:bg-slate-800 hover:shadow-md hover:shadow-slate-900/15 dark:hover:shadow-white/15 hover:-translate-y-0.5 transition-all duration-150"
             >
               {label}
             </a>
